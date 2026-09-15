@@ -68,6 +68,7 @@
 /anamorfico — look de lente cinematografico panoramico
 /bokeh — efectos de luz de fondo suavemente desenfocados
 /pocaprofundidad — sujeto nitido con fondo desenfocado
+/generate handwritten image — Generar una imagen con texto manuscrito seguido escribe tu tema.
 
 
 ## USADOS - IMG CHAT GPT ##
