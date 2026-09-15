@@ -1,0 +1,98 @@
+## COMANDOS PARA FOTOS E IMÁGENES ##
+
+Uso: copia la descripción y añade el sujeto, el contexto o la imagen de referencia.
+Los atajos con / son etiquetas de esta biblioteca; puedes definirlos en tu conversación.
+Cada instrucción requiere una herramienta con las capacidades de imagen correspondientes.
+La marca [Usado] conserva tu historial de uso.
+
+## FOTOGRAFÍA DE PRODUCTO Y PUBLICIDAD ##
+
+/showcase — Foto publicitaria premium del producto.
+/metaad — Imagen para un anuncio en Meta Ads; especifica formato y mensaje.
+/productshot — Foto profesional de estudio.
+/luxury — Producto con estética de lujo.
+/estudio — Montaje de fotografía de estudio profesional.
+/3Dbillboard — Producto en una valla 3D gigante. [Usado]
+
+## ESTILOS, TEXTURAS Y DETALLE ##
+
+/cinematic — Escena con estética de película.
+/cinematico — Iluminación, composición y atmósfera cinematográficas.
+/cyberpunk — Estética futurista cyberpunk con luces de neón, aplicable a escenas y campañas de producto.
+/futuristic — Producto en un ambiente tecnológico futurista.
+/hdreal — Acabado fotorrealista con alto nivel de detalle.
+/ultrarealista — Resultado visual extremadamente realista.
+/4k — Solicita una imagen en 4K si la herramienta admite esa resolución.
+/8k — Solicita una imagen en 8K si la herramienta admite esa resolución.
+/granodefilm — Textura analógica de película cinematográfica.
+/anamorfico — Estética de lente cinematográfico anamórfico y encuadre panorámico.
+/oleo — Estilo de pintura tradicional al óleo. [Usado]
+/generate handwritten image — Genera una imagen con texto manuscrito; añade el tema y el texto que debe aparecer.
+
+## ENCUADRES Y PERSPECTIVAS ##
+
+/macro — Primer plano con detalles extremos de un objeto pequeño.
+/vistadron — Perspectiva aérea de estilo dron.
+/vistaaerea — Vista desde gran altura.
+/anguloabajo — Ángulo de cámara dramático desde abajo.
+/anguloalto — Cámara mirando hacia abajo al sujeto.
+/perfil — Perspectiva de perfil lateral.
+/primerplano — Encuadre cerrado enfocado en el sujeto.
+/primerplanoextremo — Primer plano extremo muy detallado.
+/granangular — Campo de visión amplio que muestra más entorno.
+/ojopez — Perspectiva de ojo de pez ultra ancha y distorsionada.
+/primerapersona — Toma en primera persona.
+/sobreelhombro — Perspectiva desde atrás del hombro del sujeto.
+/vistaaves — Escena vista directamente desde arriba.
+/vistagusano — Perspectiva extrema mirando hacia arriba, desde el nivel del suelo.
+/desdearriba — Ángulo de cámara directamente desde arriba. [Usado]
+
+## ILUMINACIÓN Y ENFOQUE ##
+
+/neon — Escena futurista con luces de neón.
+/lucesneon — Efectos de luces de neón vibrantes.
+/atardecer — Iluminación cálida de atardecer.
+/amanecer — Iluminación suave de amanecer.
+/horadorada — Luz cálida y cinematográfica de la hora dorada.
+/horaazul — Atmósfera azulada y fresca del crepúsculo.
+/luzluna — Escena iluminada por la luz de la luna.
+/oscuromood — Atmósfera oscura y dramática.
+/luzsuave — Iluminación suave y difusa.
+/luzdramatica — Iluminación cinematográfica intensa y de alto contraste.
+/luzborde — Luz de borde brillante alrededor del sujeto.
+/contraluz — Sujeto iluminado desde atrás.
+/luzvolumetrica — Rayos de luz visibles atravesando la atmósfera.
+/rayosdesol — Rayos de sol o de luz dramáticos.
+/bokeh — Puntos de luz de fondo suavemente desenfocados.
+/pocaprofundidad — Sujeto nítido con fondo desenfocado.
+
+## AMBIENTES, NATURALEZA Y CLIMA ##
+
+/ice — Producto en un ambiente congelado.
+/storm — Producto en una tormenta épica.
+/underwater — Producto bajo el agua.
+/bajoelagua — Ambiente y perspectiva submarinos. [Usado]
+/ocean — Producto en una escena oceánica.
+/desert — Producto en un desierto cinematográfico.
+/nature — Producto integrado con elementos naturales.
+/jungle — Producto en una selva tropical.
+/space — Producto en el espacio. [Usado]
+/neblina — Atmósfera suave y ligeramente neblinosa.
+/niebla — Niebla atmosférica alrededor de la escena. [Usado]
+/nochelluvia — Ambiente nocturno lluvioso.
+/lluvia — Efectos de lluvia y ambiente húmedo.
+/tormenta — Clima tormentoso dramático.
+/nieve — Nevada y ambiente invernal.
+
+## EFECTOS VISUALES Y DESGLOSE DE OBJETOS ##
+
+/floating — Producto levitando con elementos alrededor.
+/splash — Producto rodeado de agua o líquido.
+/hologram — Producto con hologramas e interfaces digitales.
+/portal — Producto saliendo de un portal de energía.
+/explosion — Producto en medio de una explosión visual.
+/smoke — Producto rodeado de humo dramático.
+/fire — Producto rodeado de fuego y chispas. [Usado]
+/energy — Producto con rayos y energía visual. [Usado]
+/anatomy — Desglosa y analiza en detalle la estructura de un objeto.
+/explodedview — Muestra las piezas de un objeto separadas en una vista de despiece. [Usado]

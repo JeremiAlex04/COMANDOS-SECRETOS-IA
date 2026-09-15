@@ -1,0 +1,47 @@
+## COMANDOS PARA VIDEOS ##
+
+Uso: copia la descripción y añade el sujeto, la acción, la duración y el formato.
+Los atajos con / son etiquetas de esta biblioteca; puedes definirlos en tu conversación.
+Cada instrucción requiere una herramienta con las capacidades de video correspondientes.
+La marca [Usado] conserva tu historial de uso.
+
+## MOVIMIENTOS DE CÁMARA ##
+
+/flythrough — Recorrido cinematográfico de la cámara a través de una escena.
+/dollyIn — Desplazamiento suave de la cámara hacia el sujeto para un primer plano cinematográfico.
+/CraneUp — Movimiento ascendente de la cámara para revelar la escena desde una perspectiva más alta.
+/panLeft — Panorámica horizontal suave hacia la izquierda para revelar más de la escena.
+/panRight — Panorámica horizontal suave hacia la derecha para revelar más de la escena.
+/tiltUp — Inclina la cámara hacia arriba para mostrar altura y escala.
+/tiltDown — Inclina la cámara hacia abajo para revelar lo que está debajo.
+/follow — La cámara sigue al sujeto de forma fluida.
+/orbit — La cámara orbita alrededor del sujeto para una vista de 360°. [Usado]
+
+## ESTABILIZACIÓN Y ESTILO DE CÁMARA ##
+
+/steadicam — Movimiento de cámara suave y estabilizado.
+/handheld — Movimiento natural de cámara en mano para mayor realismo.
+
+## ENCUADRES, PERSPECTIVAS Y LENTES ##
+
+/wide — Campo de visión amplio para una toma más abierta y cinematográfica.
+/telephoto — Estética de teleobjetivo, con perspectiva comprimida y encuadre cercano y dramático.
+/topdown — Toma cenital, directamente desde arriba.
+/POV — Toma en primera persona para que el público se sienta parte de la acción.
+/drone — Toma aérea con dron para vistas desde arriba. [Usado]
+
+## ZOOM Y ENFOQUE ##
+
+/zoomOut — Zoom suave hacia afuera para revelar más contexto en el encuadre.
+/zoomIn — Zoom suave hacia adentro para acercar el sujeto y resaltar detalles.
+/rackfocus — Cambio de enfoque entre el primer plano y el fondo para dirigir la atención. Alias anterior: /Rockfocus.
+
+## VELOCIDAD Y PASO DEL TIEMPO ##
+
+/timelapse — Paso del tiempo acelerado con la cámara en una posición fija.
+/hyperlapse — Paso del tiempo acelerado con desplazamiento de la cámara.
+/slowmo — Cámara lenta para un efecto dramático.
+
+## EFECTOS Y REVELACIONES ##
+
+/smokereveal — Haz que el sujeto o elemento visual aparezca de forma dramática entre nubes de humo en movimiento.
